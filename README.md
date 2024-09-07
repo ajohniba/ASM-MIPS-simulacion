@@ -68,4 +68,4 @@ Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo
 
 ## Contacto
 
-Para cualquier pregunta o comentario, no dudes en contactar al autor a través de [tu-email@example.com](mailto:tu-email@example.com).
+Para cualquier pregunta o comentario, no dudes en contactar al autor a través de [ajohniba@hotmail.com](mailto:ajohniba@hotmail.com).
